@@ -1,7 +1,3 @@
-Let me check the code again. The issue might be with the JavaScript code. I'll make sure to test it again.
-
-Upon reviewing the code, I realized that the JavaScript code was not properly organized. Here's the corrected code:
-
 script.js
 // Index page
 if (document.querySelector('.loader')) {
@@ -148,5 +144,3 @@ appreciation.html
   <script src="script.js"></script>
 </body>
 </html>
-
-Please try this updated code. It should work as expected.
