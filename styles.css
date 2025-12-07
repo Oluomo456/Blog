@@ -1,0 +1,39 @@
+body {
+‎  background-color: #ffffff;
+‎  font-family: Arial, sans-serif;
+‎}
+‎
+‎.loader {
+‎  position: absolute;
+‎  top: 50%;
+‎  left: 50%;
+‎  transform: translate(-50%, -50%);
+‎  font-size: 24px;
+‎  color: #333333;
+‎}
+‎
+‎.message {
+‎  position: absolute;
+‎  top: 50%;
+‎  left: 50%;
+‎  transform: translate(-50%, -50%);
+‎  font-size: 36px;
+‎  color: #333333;
+‎  text-align: center;
+‎}
+‎
+‎.pics {
+‎  display: flex;
+‎  flex-wrap: wrap;
+‎  justify-content: center;
+‎}
+‎
+‎.pic {
+‎  margin: 10px;
+‎  width: 200px;
+‎  height: 200px;
+‎  background-size: cover;
+‎  background-position: center;
+‎  border-radius: 10px;
+‎  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+‎}
